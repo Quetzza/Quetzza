@@ -1,10 +1,10 @@
-<h3 align="center">
+<h2 align="center">
   
   ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
   
   Bienvenido soy Axel Arteaga ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
 
-  </h3>
+  </h2>
   <h3 align="left">
     <img 
 src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>  Acerca de mí
@@ -13,58 +13,48 @@ src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true
 
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
 
-Ingeniero de control de calidad con experiencia en áreas administrativas. Centrado en ofrecer software confiable, estable y de alta calidad a través de pruebas estructuradas, documentación clara y una sólida colaboración con los equipos de desarrollo.
+QA con experiencia en áreas administrativas. Centrado en ofrecer software confiable, estable y de alta calidad a través de pruebas estructuradas, documentación clara y una sólida colaboración con los equipos de desarrollo.
 
 >[!TIP]
 >"Un evaluador es tan bueno como los casos de prueba que se le ocurren". - Cem Kaner
 
 
-## 🛠️ Mis habilidades
+### 🛠️ Mis habilidades
+
 
 **Idiomas**  
-<picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture>
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![Java](https://img.shields.io/badge/java-%23DD0031.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![Php](https://img.shields.io/badge/php-%23563D7C.svg?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+![Swift](https://img.shields.io/badge/swift-%23E34F26.svg?style=for-the-badge&logo=swift&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-%2300599C.svg?style=for-the-badge&logo=TypeScript&logoColor=white)&nbsp;
+
 
 **Software y herramientas**  
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white"></a>
-    &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
-  &emsp;
- <a href="#"><img src="https://img.shields.io/badge/jira-%234479A1.svg?&style=plastic&logo=jira&logoColor=white"/></a>
- &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/postman-%23F05033.svg?style=plastic&logo=postman&logoColor=white"></a>
-&emsp;
-<a href="#"><img src="https://img.shields.io/badge/jira-%234479A1.svg?&style=plastic&logo=jira&logoColor=white"/></a>
-  &emsp;
-    <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/REST-000000?style=plastic&logo=logoColor=white"></a>
-</p>
+
+ ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Markdown](https://img.shields.io/badge/Markdown-0078d7.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+![Selenium](https://img.shields.io/badge/Selenium-%234ea94b.svg?style=for-the-badge&logo=selenium&logoColor=white)&nbsp;
+![Mysql](https://img.shields.io/badge/mysql-0078d7.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![Json](https://img.shields.io/badge/json-%23121011.svg?style=for-the-badge&logo=json&logoColor=white)&nbsp;
+![Google Sheets](https://img.shields.io/badge/GoogleSheets-%234ea94b.svg?style=for-the-badge&logo=GoogleSheets&logoColor=white)&nbsp;
+ 
 
 **IDEs**  
 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt="android studio" src="https://img.shields.io/badge/android%20-studio%2366595C.svg?&style=plastic&logo=android%20studio&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
-</p>
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Jetbrains](https://img.shields.io/badge/jetbrains-%23121011.svg?style=for-the-badge&logo=jetbrains&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/androidstudio-%234ea94b.svg?style=for-the-badge&logo=androidstudio&logoColor=white)&nbsp;
 
 
-## 🧪 QA Experiencia & Proyectos
+### 🧪 QA Experiencia & Proyectos
+
+
 ### 🌐 AROUND — Aplicación web
 
 Plataforma web social para compartir fotos y experiencias.
@@ -93,7 +83,8 @@ Plataforma de entrega de comestibles en línea con gestión de inventario.
 - Validación del flujo de caja e inventario
 
 
-## 📫 Contacto
+### 📫 Contacto
+
 
 - 📧 Email: **axelarteaga21@gmail.com**
 - 💼 LinkedIn: [linkedin.com/in/axel-arteaga](https://www.linkedin.com/in/axel-arteaga)
